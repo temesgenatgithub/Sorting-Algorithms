@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-Collection of sorting algorithms, Insertion, Bubble, Merge and Quick sort.
+Collection of sorting algorithms, such as Insertion, Bubble, Merge and Quick sort.
